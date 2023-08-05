@@ -25,7 +25,7 @@ print('Сумма чисел', num12, "," ,num13, "и",  num14,  "равно" , 
 num19 = 10
 num20 = 3
 num23 = num19 // num20
-num21 = num19 % num20
+num21 = num19 % num20i
 print("школьников", num20)
 print("яблок", num19)
 print("школьникам по", num23, "яблока")
